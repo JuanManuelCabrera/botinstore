@@ -1,0 +1,35 @@
+[
+    {
+      "id": 1,
+      "name": "Freddom",
+      "marca": "Nike",
+      "price": "27500",
+      "img": "https://http2.mlstatic.com/D_NQ_NP_997945-MLA48063699344_102021-O.webp",
+      "quanty": 1
+    },
+    {
+      "id": 2,
+      "name": "Borussia",
+      "marca": "Puma",
+      "price": "35000",
+      "img": "https://http2.mlstatic.com/D_NQ_NP_802231-MLA53584178227_022023-O.webp",
+      "quanty": 1
+    },
+  
+    {
+      "id": 3,
+      "name": "Razer",
+      "marca": "Adidas",
+      "price": "40000",
+      "img": "https://http2.mlstatic.com/D_NQ_NP_707391-MLA46482749737_062021-O.webp",
+      "quanty": 1
+    },
+    {
+      "id": 4,
+      "name": "Sacachispas",
+      "marca": "Topper",
+      "price": "86000",
+      "img": "https://http2.mlstatic.com/D_871159-MLA45344348017_032021-O.jpg",
+      "quanty": 1
+    }
+  ]

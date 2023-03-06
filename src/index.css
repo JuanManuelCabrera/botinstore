@@ -11,3 +11,29 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+.contador-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+
+.contador {
+  width: 200px;
+  background-color: #4e7caf;
+  border-radius: 10px;
+  box-shadow: 0px 3px 3px rgba(0, 0, 0, 0.25);
+  padding: 20px;
+  margin: 10px;
+  text-align: center;
+}
+
+.empate {
+  position: absolute;
+  margin-top: 250px;
+}
+.img{
+  position: absolute;
+  margin-top: 350px;
+}
